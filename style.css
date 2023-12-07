@@ -1,0 +1,269 @@
+#search{
+    border-radius: 50px;
+    background-color: #8B0000;
+    color: white;
+    border: 0px;
+}
+#nav{
+    color: #090909;  
+}
+#background{
+    background-color:#8B0000; 
+    color: white; 
+    padding-bottom: 50px;
+}
+#p-text{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 10px;
+    font-family: 'Pangolin', cursive;
+}
+#h1-text{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: 'Pangolin', cursive;
+}
+#pre-text{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+#button{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    background-color: #8B0000;
+    height: 50px;
+    width: 150px;
+    border-color: white;
+}
+#image{
+    padding-top: 70px;
+    padding-left: 20%;
+}
+@media only screen and (max-width : 376px) {
+    #image{
+        padding-top: 70px;
+        padding-right: 20%;
+    }
+}
+@media only screen and (max-width : 415px) {
+    #image{
+        padding-top: 70px;
+        padding-right: 20%;
+    }
+}
+@media only screen and (max-width : 821px) {
+    #image{
+        padding-top: 90%;
+    }
+}
+@media only screen and (max-width : 281px) {
+    #image{
+        padding-top: 20%;
+    }
+}
+@media only screen and (max-width : 413px) {
+    #image{
+        padding-top: 20%;
+    }
+}
+@media only screen and (max-width : 361px) {
+    #img_height{
+        height: 60px;
+    }
+}
+#title-color{
+    color:#8B0000;
+    font-family: 'Pangolin', cursive;
+}
+#background1{
+    background-color:#f7f1f1 ;
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px grey ;
+}
+#h6_text{
+    text-align: center;
+    font-size: small;
+    padding-top: 5%;
+    font-family: 'Pangolin', cursive;
+}
+#h1_text{
+    padding-top: 1%;
+    color:#8B0000;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+#background2{
+    background-color: #f7f1f1;
+}
+#h5-text{
+    text-align: center;
+    color: #8B0000;
+    font-family: 'Pangolin', cursive;
+}
+#button_cl{
+    background-color: #8B0000;
+    border-radius: 15px;
+    border: #8B0000;
+}
+#h_color{
+    color: #8B0000;
+    font-family: 'Pangolin', cursive;
+}
+#text{
+    text-align: center;
+    font-size: small;
+    padding-top: 5%;
+    font-family: 'Pangolin', cursive;
+}
+#h3_text{
+    padding-top: 1%;
+    color:#8B0000;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Pangolin', cursive;
+}
+#background_1{
+    background-color: #f7f1f1;
+}
+#padding_img{
+    padding-left: 8%;
+    border-radius: 50%;
+}
+@media only screen and (max-width : 769px) {
+    #padding_img{
+        padding-left: 0%;
+    }
+}
+@media only screen and (max-width : 413px) {
+    #padding_img{
+        padding-left: 11%;
+    }
+}
+@media only screen and (max-width : 281px) {
+    #padding_img{
+        padding-left: 0%;
+    }
+}
+@media only screen and (max-width : 821px) {
+    #padding_img{
+        padding-left: 0%;
+    }
+}
+@media only screen and (max-width : 415px) {
+    #padding_img{
+        padding-left: 11%;
+    }
+}
+@media only screen and (max-width : 391px) {
+    #padding_img{
+        padding-left: 9%;
+    }
+}
+@media only screen and (max-width : 376px) {
+    #padding_img{
+        padding-left: 7%;
+    }
+}
+@media only screen and (max-width : 361px) {
+    #padding_img{
+        padding-left: 5%;
+    }
+}
+#text_color{
+ font-family: 'Pangolin', cursive;
+ text-align: center;
+ padding-top: 5%;
+ color:#8B0000;
+}
+#text_color1{
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+    padding-bottom: 15%; 
+}
+#footer{
+    background-color: #B22222;
+    color: white;
+}
+#footer_header{
+    font-family: 'Pangolin', cursive;
+    padding-top: 15%;
+}
+#footer_p{
+    padding-top: 5%;
+}
+#icon1{
+    border: 1px solid white;
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2%;
+    background-color: white;
+    color:#8B0000;
+}
+#icon2{
+    border: 1px solid white;
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2%;
+    background-color: white;
+    color:#8B0000;
+    margin-left: 3%;
+}
+#icon3{
+    border: 1px solid white;
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2%;
+    background-color: white;
+    color:#8B0000;
+    margin-left: 3%;
+}
+#icon4{
+    border: 1px solid white;
+    font-size: 12px;
+    border-radius: 50%;
+    padding: 2%;
+    background-color: white;
+    color:#8B0000;
+    margin-left: 3%;
+}
+#address{
+  padding-top: 4%;
+  font-family: 'Pangolin', cursive;
+}
+#iconn{
+  padding-right: 3%;
+}
+#text_space{
+    margin-left: 9%;
+}
+#text_space1{
+    padding-top: 5%;
+}
+#form{
+    border-radius: 5px;
+    border: #B22222;
+}
+#form1{
+    border-radius: 5px;
+    border: #B22222;
+}
+#botton1{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #8B0000;
+    border: #8B0000;
+}
+#lower_footer{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    background-color: #B22222;
+}
